@@ -1,14 +1,33 @@
 {
   "files": {
-    "main.css": "/App-React/static/css/main.f855e6bc.css",
-    "main.js": "/App-React/static/js/main.7c2978a3.js",
+    "main.css": "/App-React/static/css/main.e42968dd.css",
+    "main.js": "/App-React/static/js/main.c3033f5d.js",
+    "static/media/video2.mp4": "/App-React/static/media/video2.15899eebc450b185f31c.mp4",
+    "static/media/img14.jpg": "/App-React/static/media/img14.023c3429d628aea23e40.jpg",
+    "static/media/video1.mp4": "/App-React/static/media/video1.8bd77ba2e1a0cc3b5ad0.mp4",
+    "static/media/img11.jpg": "/App-React/static/media/img11.e8c977ce925b899b11bb.jpg",
+    "static/media/img13.jpg": "/App-React/static/media/img13.1a1451586e8fac7a124e.jpg",
+    "static/media/img15.jpg": "/App-React/static/media/img15.0c218cdb2fa34b7a0373.jpg",
+    "static/media/img10.jpg": "/App-React/static/media/img10.13dabd5e063d180ec55c.jpg",
+    "static/media/img12.jpg": "/App-React/static/media/img12.630df7725fe8580a15aa.jpg",
+    "static/media/img1.jpg": "/App-React/static/media/img1.9a829c97de8bf6aaa178.jpg",
+    "static/media/img2.jpg": "/App-React/static/media/img2.18923d26375824b8e361.jpg",
+    "static/media/img3.jpg": "/App-React/static/media/img3.c7f81e8d1ffa638d112d.jpg",
+    "static/media/img4.jpg": "/App-React/static/media/img4.0b5a2277a58884aa248f.jpg",
+    "static/media/img6.jpg": "/App-React/static/media/img6.984acd3029885a57f521.jpg",
+    "static/media/img9.jpg": "/App-React/static/media/img9.a57e53e3747482107029.jpg",
+    "static/media/img5.jpg": "/App-React/static/media/img5.79313b2d8b1ad7076e3d.jpg",
+    "static/media/img7.jpg": "/App-React/static/media/img7.cfff469c8b024902d8c3.jpg",
+    "static/media/img8.jpg": "/App-React/static/media/img8.7b0733aa19ef04c9289e.jpg",
+    "static/media/img16.jpg": "/App-React/static/media/img16.0580dbde3d3cc1cacdaa.jpg",
+    "static/media/img17.jpg": "/App-React/static/media/img17.880e05b7b656e55bf9fb.jpg",
     "static/media/logo.svg": "/App-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/App-React/index.html",
-    "main.f855e6bc.css.map": "/App-React/static/css/main.f855e6bc.css.map",
-    "main.7c2978a3.js.map": "/App-React/static/js/main.7c2978a3.js.map"
+    "main.e42968dd.css.map": "/App-React/static/css/main.e42968dd.css.map",
+    "main.c3033f5d.js.map": "/App-React/static/js/main.c3033f5d.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.7c2978a3.js"
+    "static/css/main.e42968dd.css",
+    "static/js/main.c3033f5d.js"
   ]
 }
