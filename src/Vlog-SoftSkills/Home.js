@@ -23,7 +23,7 @@ export default function Home() {
       return (
         <center>
           <table className="table table-bordered tableShow bg-dark w-75">
-          <caption>Qu'avez-vous fait ? </caption>
+          <caption>Qu'avez-vous fait ?? </caption>
             <thead>
               <tr>
                 <th>Jour</th>
