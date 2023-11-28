@@ -19,7 +19,7 @@ const SlideshowWithImages = () => {
     position: 'absolute',
     top: '50%',
     transform: 'translateY(-50%)',
-    width: '230px', // Adjust the width as needed
+    width: '230px', 
   };
 
   return (
