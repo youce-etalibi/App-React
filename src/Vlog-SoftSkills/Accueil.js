@@ -10,7 +10,7 @@ export default function Vlog(){
 
     return(
         <Fragment>
-            <BrowserRouter>
+            <BrowserRouter basename="/App-React">
                 <Routes>
                     <Route path="/" element={<Home />}/>
                     <Route path="/ajoute" element={<Ajoute />}/>
